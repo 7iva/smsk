@@ -1,0 +1,26 @@
+Read a recent interesting paper (within about two years from now) that utilizes deep learning preferably in your research field. Please summarize the paper in the following format with slides of 9-13 pages long.
+
+1. Title page (authors, title, journal/conference name, page numbers, year of the paper as well as your name and student ID)
+2. Summary of the work (what is the paper about?)
+3. Background of the work (are there any previous attempts?)
+4. Issues to solve (what are the issues in the previous work?)
+5. The core idea(s) of the work (how does the work solve the issues?)
+6. Explanation of the deep learning architecture
+7. Evidence of its contribution(s) (how does the work demonstrate the contribution(s)?)
+8. Possible applications (how are the contributions of the work generalized?)
+9. Your thoughts (why do you find this paper interesting?)
+
+Please consider the following aspects when choosing a paper
+
++ Choose an interesting paper that you want to share with others
++ Do not choose a paper written by your close researchers (e.g., in the same/previous laboratory)
++ Do not choose a paper that is shorter than four pages
++ If you have no idea how to choose a paper, it may be a good idea to check the proceedings of these conferences:
++ NIPS: https://nips.cc/
++ ICML: https://icml.cc/  <- Recommendable
++ ICLR: https://iclr.cc/
++ TACL, ACL, NAACL, EMNLP, EACL, Coling, CoNLL, IJCNLP: https://aclanthology.info/
++ AAAI: https://www.aaai.org/
++ IJCAI: http://www.ijcai.org/
+
+We accept slides written in Japanese or English and submitted in PDF format.
